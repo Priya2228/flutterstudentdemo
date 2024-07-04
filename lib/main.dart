@@ -11,8 +11,6 @@ void main() async {
       options: const FirebaseOptions(
           apiKey: "AIzaSyBB1NwCDfpFNzFPAHAj6vinXa_K8Thy798",
           authDomain: "studentdemo-d5391.firebaseapp.com",
-          databaseURL:
-              "https://naqli-5825c-default-rtdb.europe-west1.firebasedatabase.app",
           projectId: "studentdemo-d5391",
           storageBucket: "studentdemo-d5391.appspot.com",
           messagingSenderId: "948878576246",
